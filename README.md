@@ -1,2 +1,2 @@
-# traidingview-strategies
-Erinevad testitud strateegiad Traidingviews
+# TRAIDINGVIEW STRATEEGIAD
+Testitud strateegiad suurte tootlikusega
