@@ -1,2 +1,3 @@
 1. Liigutada BUY orders riskimaks - splittestida tulemust
 2. Liigutada SELL ordereid natukene aggressiivsemaks - splittestida tulemust
+3. Muuta strateegi alertideks ja lasta teha traidingview-l custom signale (millal osta, v müüa)
