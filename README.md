@@ -1,2 +1,2 @@
-# TRAIDINGVIEW STRATEEGIAD
+# TRD - STRATEEGIAD
 Testitud strateegiad suurte tootlikusega
